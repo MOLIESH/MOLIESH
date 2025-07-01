@@ -1,8 +1,6 @@
-## Hi there 👋 It's me Hareesh
-
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi there, I'm MOLIESH!</h1>
 <h3 align="center">💻 Passionate Software Developer</h3>
 
 <p align="center">
@@ -53,13 +51,13 @@
 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/moliesh21">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR-EMAIL@domain.com">
+  <a href="mailto:molieshhiruba21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL">
+  <a href="https://moliesh-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
 </p>
