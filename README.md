@@ -57,7 +57,7 @@
   <a href="mailto:molieshhiruba21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://moliesh-portfolio.vercel.app">
+  <a href="https://molieshportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
 </p>
